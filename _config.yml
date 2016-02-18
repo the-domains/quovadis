@@ -1,7 +1,7 @@
 name: QuoVadis
 favicon: null
-layout_spectrum: 0.9695163348224014
-typography_spectrum: 0.06510266405530274
+layout_spectrum: 1
+typography_spectrum: 0.48092
 cta:
   domain: null
   bucket: null
